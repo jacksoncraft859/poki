@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: */search?q
+Disallow: /en/preview/
+Sitemap: https://poki.com/en/sitemaps/index.xml
+Sitemap: https://poki.com/ru/sitemaps/index.xml
+Sitemap: https://poki.com/ua/sitemaps/index.xml
+Sitemap: https://poki.com/ar/sitemaps/index.xml
+Sitemap: https://poki.com/th/sitemaps/index.xml
+Sitemap: https://poki.com/kr/sitemaps/index.xml
+Sitemap: https://poki.com/es/sitemaps/index.xml
+Sitemap: https://poki.com/fr/sitemaps/index.xml
+Sitemap: https://poki.com/tr/sitemaps/index.xml
+
+User-agent: proximic
+Disallow:
